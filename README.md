@@ -6,7 +6,7 @@ The objective of this Project is to generate  Stock Management
 * Items / purchases,
 * Sales
 * Stock
-* Client 
+* Clients 
 * Provider
 * Sales Management
 * Purchases Management
