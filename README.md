@@ -34,6 +34,7 @@ Let me show you some interfaces with options of the project:
 For install project  you have to follow the next step:
 * Create DB in mySQl with name `gestionstock`
 * Setup project in Your HSOT or virtual machine like wamp ,xamp ect
+for more information please contact me thanks.
 
  
 
